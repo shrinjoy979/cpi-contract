@@ -1,0 +1,1 @@
+/Users/shrinjoysaha/Documents/My\ Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/cpi_contract.so: /Users/shrinjoysaha/Documents/My\ Projects/web3/cpi-in-solana/cpi-contract/src/lib.rs

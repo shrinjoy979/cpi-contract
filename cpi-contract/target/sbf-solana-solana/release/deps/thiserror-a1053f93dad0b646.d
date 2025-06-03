@@ -1,0 +1,10 @@
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/libthiserror-a1053f93dad0b646.rmeta: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/libthiserror-a1053f93dad0b646.rlib: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/thiserror-a1053f93dad0b646.d: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:

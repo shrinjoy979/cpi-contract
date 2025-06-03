@@ -1,0 +1,10 @@
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/libgetrandom-e3caa02a547ac713.rmeta: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs
+
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/libgetrandom-e3caa02a547ac713.rlib: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs
+
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/getrandom-e3caa02a547ac713.d: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs
+
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs:

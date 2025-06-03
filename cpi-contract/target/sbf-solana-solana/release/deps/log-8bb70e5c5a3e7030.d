@@ -1,0 +1,10 @@
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/liblog-8bb70e5c5a3e7030.rmeta: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/liblog-8bb70e5c5a3e7030.rlib: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/log-8bb70e5c5a3e7030.d: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs:

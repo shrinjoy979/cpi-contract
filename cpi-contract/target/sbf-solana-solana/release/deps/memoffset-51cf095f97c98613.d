@@ -1,0 +1,10 @@
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/libmemoffset-51cf095f97c98613.rmeta: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/libmemoffset-51cf095f97c98613.rlib: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/Users/shrinjoysaha/Documents/My Projects/web3/cpi-in-solana/cpi-contract/target/sbf-solana-solana/release/deps/memoffset-51cf095f97c98613.d: /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs:
+/Users/shrinjoysaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs:
