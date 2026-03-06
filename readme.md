@@ -1,4 +1,4 @@
-# 🔗 CPI Contract (Solana + Rust)
+# CPI Contract (Solana + Rust)
 
 A Solana smart contract written in Rust that demonstrates **Cross Program Invocation (CPI)**.  
 This program shows how one Solana program can securely call another program on-chain.
@@ -7,7 +7,7 @@ CPI is a core concept in Solana development and is widely used for interacting w
 
 ---
 
-## 🚀 Features
+## Features
 
 - Demonstrates Cross Program Invocation (CPI)
 - Interacts with another on-chain program
@@ -17,7 +17,7 @@ CPI is a core concept in Solana development and is widely used for interacting w
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - Rust
 - Solana Program Library
@@ -26,7 +26,7 @@ CPI is a core concept in Solana development and is widely used for interacting w
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### 1. Install Solana CLI
 
@@ -67,7 +67,7 @@ solana program deploy target/deploy/cpi_contract.so
 
 ---
 
-## 🎯 How It Works
+## How It Works
 
 1. A user sends a transaction to the CPI program.
 2. The program processes the instruction.
@@ -76,7 +76,7 @@ solana program deploy target/deploy/cpi_contract.so
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 cpi-contract/
@@ -93,7 +93,7 @@ cpi-contract/
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - Cross Program Invocation (CPI)
 - Solana Accounts
@@ -104,7 +104,7 @@ cpi-contract/
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add support for Token Program CPI
 - Add more example instructions
@@ -114,13 +114,7 @@ cpi-contract/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome.  
 Feel free to fork the project and improve it.
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
